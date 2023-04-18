@@ -1,5 +1,5 @@
 you can access the python notebook using this link
-
+https://github.com/harshaguntaka/Telecom_Churn_Analysis/blob/main/readme.md
 
 
 # Telecom Churn Analysis
